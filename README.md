@@ -1,0 +1,1 @@
+# configure_file_of_ide
